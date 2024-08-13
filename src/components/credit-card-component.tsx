@@ -137,7 +137,7 @@ export function CreditCardComponent() {
   );
 }
 
-function CopyIcon(props) {
+function CopyIcon(props: any) {
   return (
     <svg
       {...props}
@@ -157,7 +157,7 @@ function CopyIcon(props) {
   );
 }
 
-function CreditCardIcon(props) {
+function CreditCardIcon(props: any) {
   return (
     <svg
       {...props}
@@ -177,7 +177,7 @@ function CreditCardIcon(props) {
   );
 }
 
-function GlassWaterIcon(props) {
+function GlassWaterIcon(props: any) {
   return (
     <svg
       {...props}
@@ -197,7 +197,7 @@ function GlassWaterIcon(props) {
   );
 }
 
-function LockIcon(props) {
+function LockIcon(props: any) {
   return (
     <svg
       {...props}
@@ -217,7 +217,7 @@ function LockIcon(props) {
   );
 }
 
-function PowerIcon(props) {
+function PowerIcon(props: any) {
   return (
     <svg
       {...props}
@@ -237,7 +237,7 @@ function PowerIcon(props) {
   );
 }
 
-function ReceiptIcon(props) {
+function ReceiptIcon(props: any) {
   return (
     <svg
       {...props}
@@ -258,7 +258,7 @@ function ReceiptIcon(props) {
   );
 }
 
-function SendIcon(props) {
+function SendIcon(props: any) {
   return (
     <svg
       {...props}
@@ -278,7 +278,7 @@ function SendIcon(props) {
   );
 }
 
-function ShoppingCartIcon(props) {
+function ShoppingCartIcon(props: any) {
   return (
     <svg
       {...props}
@@ -299,7 +299,7 @@ function ShoppingCartIcon(props) {
   );
 }
 
-function WalletIcon(props) {
+function WalletIcon(props: any) {
   return (
     <svg
       {...props}
