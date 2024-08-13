@@ -11,3 +11,16 @@ npx v0 add AW6R3VpfOA8
 
 Component名は先頭大文字にしてimportすればなんとかなる
 
+v0vercelの型なしに対してanyをつければbuildは通る
+
+Netify
+- https://app.netlify.com/sites/ornate-hummingbird-d34db2/overview
+- https://ornate-hummingbird-d34db2.netlify.app/
+
+Vercel
+- https://vercel.com/ikmz0104s-projects/v0vercel
+- https://v0vercel-ikmz0104s-projects.vercel.app/
+
+以上でフロントエンド基盤とインフラ基盤の最小化が完成する
+
+これでコントラクト開発に時間をさくことができる
